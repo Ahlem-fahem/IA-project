@@ -1,39 +1,39 @@
 import random
 STATES = [
   {
-    "Récompense": 800,
+    "Awards": 800,
     "1": 1,
     "2": 2,
     "3": 4}, 
   {
-    "Récompense": 700,
+    "Awards": 700,
     "1": 1,
     "2": 1,
     "3": 1}, 
   {
-    "Récompense": 203,
+    "Awards": 203,
     "1": 1,
     "2": 2,
     "3": 3}, 
   {
-    "Récompense": 204,
+    "Awards": 204,
     "1": 2,
     "2": 3,
     "3": 4}, 
   {
-    "Récompense": 205,
+    "Awards": 205,
     "1": 3,
     "2": 4,
     "3": 5
   }, 
   {
-    "Récompense": 206,
+    "Awards": 206,
     "1": 4,
     "2": 5,
     "3": 6
   }, 
   {
-    "Récompense": 0,
+    "Awards": 0,
     "1": 1,
     "2": 2,
     "3": 2
